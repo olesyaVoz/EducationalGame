@@ -706,10 +706,10 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: a22b34e8-0aab-4908-ae2c-7e8238ae3b97
+  cloudProjectId: c7b69265-adb5-4a19-aefc-7954e61e3aae
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: My project
+  projectName: EducationalGame
   organizationId: ololesya63
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
